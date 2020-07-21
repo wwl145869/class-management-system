@@ -1,0 +1,15 @@
+/*#controller-left-table tr td{
+    border-color: #2aabd2;
+}*/
+#controller-top{
+    margin: auto auto;
+    height: 180px;
+}
+#controller-belly{
+    margin: auto auto;
+    height: 800px;
+}
+.a{
+    text-decoration: none;
+
+}

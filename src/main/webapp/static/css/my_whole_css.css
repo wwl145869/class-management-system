@@ -1,0 +1,31 @@
+.div-body{
+        margin: auto 0;
+        width:100%;
+        height:100%;
+}
+.div-topo{
+    margin: 20px auto;
+    width:80%;
+}
+.div-myform{
+    width: 300px;
+    height: 400px;
+    margin: 230px auto;
+
+}
+.link-top{
+    width: 50%;
+    height: 2px;
+    border-top: solid #ACC0D8 3px;
+}
+.style-two{/*透明渐变水平线*/
+    width:80%;
+    margin:0 auto;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+.row{
+
+    background-color:wheat ;
+}
